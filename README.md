@@ -5,5 +5,5 @@ MDP-XP consists of a display control module and a digital power module. Through 
 
 # Soldering Iron
 * [TS80](https://www.adafruit.com/product/4244)<br>
-The TS80 is a chic and smart soldering iron powered by USB Type-C and QC3.0 standard input. Normally we'd scoff at trying to power a soldering iron off of USB, but thanks to the new USB C standard, the power plug that's included is a 9V 2A so you get a reasonable ~20 Watts of power. So, this is the first USB iron we would feel comfortable stocking, its a nice iron, good enough for every-day use. We dig the slim pen iron (so comfortable to hold), adjustable temperature (oooh there's a OLED screen!), durable grounding cord, and fast heat-up (about 22 seconds)!
+Comes equipped with an OLED screen, so you can keep an eye on the temperature. With a built-in STM32 chip, it can control the rise and fall of tip temperature, and it features sleep, automatic power-off, and other modes. The code application layer is open source; you can develop firmware for the soldering iron. You can even customize the boot up screen with your own 96x16 pixel BMP image!
 * [TS100](<br>)
